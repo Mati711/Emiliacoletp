@@ -1,0 +1,25 @@
+.ordenada{list-style: none;}
+.desordenada{list-style: none;}
+.links{
+    background-color: transparent;
+    font-family: 'Raleway', sans-serif;
+    background-size: 52px;
+    text-decoration:none;
+    color: black;
+    text-size-adjust: 88px;
+    text-align: right;
+}
+.chiquita{font-family: 20px;}
+body{
+    background-image: url(../img/about.jpg);
+    background-repeat: no-repeat;
+    background-position: right;
+    background-size: 1000px 800px;
+}
+.texto{font-size: 25px;
+    color: rgba(56, 179, 179, 0.93);
+}
+.textito{
+    font-size: 10px;
+    color: rgba(56, 179, 179, 0.93);
+}

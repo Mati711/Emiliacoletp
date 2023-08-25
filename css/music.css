@@ -1,0 +1,29 @@
+.imagen{max-width: 640px;
+    max-height: 360px;
+}
+.ordenada{list-style: none;}
+.links{
+    background-image: url(../img/music-top.jpg);
+    font-family: 'Raleway', sans-serif;
+    background-size: 1100px 800px;
+    text-decoration:none;
+    color: black;
+    text-size-adjust: 88px;
+    text-align: right;
+}
+.desordenada{text-decoration: none;
+list-style: none;}
+
+.direct{text-decoration: none;
+    list-style: none
+}
+.etc{text-decoration: none;
+color: black;
+background-size: 1100px 800px;
+text-align: right;
+text-size-adjust: 88px;
+font-family: 'Raleway', sans-serif;
+}
+.canciones{
+    list-style: square;
+}

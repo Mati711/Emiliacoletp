@@ -1,0 +1,14 @@
+.ordenada{list-style: none;}
+.desordenada{list-style: none;}
+.links{
+    background-color: transparent;
+    font-family: 'Raleway', sans-serif;
+    background-size: 52px;
+    text-decoration:none;
+    color: black;
+    text-size-adjust: 88px;
+    text-align: right;
+}
+.contact{color: rgb(92, 166, 114);}
+.gris{color: gray;
+text-decoration: none;}
